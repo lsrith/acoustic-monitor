@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acoustic Monitor</string>
+
+    <string name="channel_monitoring">Monitoring</string>
+    <string name="channel_monitoring_desc">Shown while the microphone is being monitored on-device.</string>
+    <string name="notif_monitoring_title">Monitoring active</string>
+    <string name="notif_monitoring_text">Audio is analysed on this phone. Nothing is uploaded.</string>
+    <string name="action_stop">Stop</string>
+
+    <string name="channel_alerts">Detections</string>
+    <string name="channel_alerts_desc">Raised when the on-device model records a notable event.</string>
+    <string name="alert_medium_title">Notable event</string>
+    <string name="alert_high_title">Notable event — high</string>
+
+    <string name="tab_live">Live</string>
+    <string name="tab_alerts">Incidents</string>
+    <string name="tab_models">Models</string>
+    <string name="tab_settings">Setup</string>
+    <string name="tab_diagnostics">Diagnostics</string>
+    <string name="tab_signals">Signals</string>
+</resources>
